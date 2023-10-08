@@ -1,0 +1,1 @@
+Using this to learn about vector dbs, may do visualisation or similar. to be decided
